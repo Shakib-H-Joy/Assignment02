@@ -132,7 +132,7 @@ section h2 {
 
 
 .featured_news_01 {
-    background: linear-gradient(rgba(46, 40, 40, 0.472), rgba(67, 60, 60, 0.472)), url(./images/kraft.jpg);
+    background: linear-gradient(rgba(46, 40, 40, 0.472), rgba(67, 60, 60, 0.472)), url(./kraft.jpg);
     height: 350px;
     width: 400px;
     background-size: cover;
@@ -143,7 +143,7 @@ section h2 {
 }
 
 .featured_news_01:hover {
-    background: linear-gradient(rgba(77, 73, 73, 0.665), rgba(194, 189, 189, 0.665)), url(./images/kraft.jpg);
+    background: linear-gradient(rgba(77, 73, 73, 0.665), rgba(194, 189, 189, 0.665)), url(./kraft.jpg);
     height: 350px;
     width: 400px;
     background-size: cover;
@@ -173,7 +173,7 @@ section h2 {
 
 
 .featured_news_02 {
-    background: linear-gradient(rgba(38, 36, 36, 0.472), rgba(36, 35, 35, 0.472)), url(./images/paper.jpg);
+    background: linear-gradient(rgba(38, 36, 36, 0.472), rgba(36, 35, 35, 0.472)), url(./paper.jpg);
     height: 350px;
     width: 400px;
     background-size: cover;
@@ -184,7 +184,7 @@ section h2 {
 }
 
 .featured_news_02:hover {
-    background: linear-gradient(rgba(183, 173, 173, 0.665), rgba(169, 165, 165, 0.665)), url(./images/paper.jpg);
+    background: linear-gradient(rgba(183, 173, 173, 0.665), rgba(169, 165, 165, 0.665)), url(./paper.jpg);
     height: 350px;
     width: 400px;
     background-size: cover;
@@ -214,7 +214,7 @@ section h2 {
 
 
 .featured_news_03 {
-    background: linear-gradient(rgba(46, 45, 45, 0.472), rgba(46, 41, 41, 0.472)), url(./images/rigid\ box.jpg);
+    background: linear-gradient(rgba(46, 45, 45, 0.472), rgba(46, 41, 41, 0.472)), url(./rigid\ box.jpg);
     height: 350px;
     width: 400px;
     background-size: cover;
@@ -225,7 +225,7 @@ section h2 {
 }
 
 .featured_news_03:hover {
-    background: linear-gradient(rgba(68, 60, 60, 0.665), rgba(152, 151, 151, 0.665)), url(./images/rigid\ box.jpg);
+    background: linear-gradient(rgba(68, 60, 60, 0.665), rgba(152, 151, 151, 0.665)), url(./rigid\ box.jpg);
     height: 350px;
     width: 400px;
     background-size: cover;
